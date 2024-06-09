@@ -1,1 +1,1 @@
-# Dragon-s-Hoard-Free-Use-CRM-for-Wholesale-Distributors-of-TTRPG-Merchandise
+# Dragons-Hoard-Free-Use-CRM-for-Wholesale-Distributors-of-TTRPG-Merchandise
