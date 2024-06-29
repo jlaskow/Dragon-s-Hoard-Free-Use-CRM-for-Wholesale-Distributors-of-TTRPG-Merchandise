@@ -1,0 +1,11 @@
+﻿LeadID,CustomerID,LeadSource,LeadStatus (%),EstimatedValue,CreatedDate,FollowUpDate
+1,1,Website,20,500,2024-06-20,2024-06-25
+2,2,Referral,40,1000,2024-06-20,2024-06-24
+3,3,Advertisement,60,750,2024-06-21,2024-06-26
+4,4,Website,30,600,2024-06-21,2024-06-27
+5,5,Referral,50,1200,2024-06-22,2024-06-28
+6,6,Advertisement,70,800,2024-06-22,2024-06-29
+7,7,Website,25,550,2024-06-23,2024-06-30
+8,8,Referral,45,950,2024-06-23,2024-07-01
+9,9,Advertisement,65,700,2024-06-24,2024-07-02
+10,10,Website,35,700,2024-06-24,2024-07-03

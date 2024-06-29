@@ -1,0 +1,6 @@
+﻿ManufacturerID,Name,ContactName,ContactEmail,ContactPhone,Address,City,State,Zip,Country
+1,GameCo,John Doe,john.doe@gameco.com,123-456-7890,123 Game St,GameCity,CA,12345,USA
+2,Accessory World,Alice Smith,alice.smith@accessoryworld.com,456-789-0123,456 Accessory Ave,AccessoryTown,TX,67890,USA
+3,ToyLand,Bob Brown,bob.brown@toyland.com,789-012-3456,789 Toy Blvd,ToyCity,NY,45678,USA
+4,Miniatures Emporium,Susan Lee,susan.lee@miniaturesemporium.com,234-567-8901,567 Miniature Lane,Miniatureville,FL,23456,USA
+5,BoardGame Co,Michael Johnson,michael.johnson@boardgameco.com,345-678-9012,678 Boardgame Rd,Boardgame City,WA,89012,USA

@@ -1,0 +1,16 @@
+﻿CustomerID,Name,Email,Phone,Address,City,State,Zip,Country,CustomerType,CreatedDate
+1,Fire and Ice Gaming,fireandice@example.com,123-456-7890,123 Main St,Anytown,CA,12345,USA,Retail,2023-01-01
+2,Jane Smith,janesmith@example.com,987-654-3210,456 Elm St,Smallville,TX,67890,USA,Individual,2023-01-02
+3,Great Escape Gaming,gegaming@example.com,555-123-4567,789 Oak Ave,Big City,NY,54321,USA,Retail,2023-01-03
+4,Sarah Brown,sarahb@example.com,222-333-4444,101 Pine Blvd,Cozyville,FL,98765,USA,Individual,2023-01-04
+5,Adventure is Nice,adventureisnice@example.com,444-555-6666,222 Cedar Dr,Mountainview,WA,13579,USA,Retail,2023-01-05
+6,Emily Davis,emilyd@example.com,777-888-9999,333 Spruce Ln,Lakeside,MI,24680,USA,Individual,2023-01-06
+7,Stinky Dragon,sd@example.com,333-222-1111,444 Birch St,Greenfield,OH,86420,USA,Retail,2023-01-07
+8,Olivia Garcia,oliviag@example.com,666-777-8888,555 Maple Ave,Sunshine,CA,97531,USA,Individual,2023-01-08
+9,Critical Store,cs@example.com,999-000-1111,666 Walnut Rd,Seaside,FL,12312,USA,Retail,2023-01-09
+10,Isabella Hernandez,isabellah@example.com,111-222-3333,777 Redwood Blvd,Hilltop,CA,54321,USA,Individual,2023-01-10
+11,The Adventure Zone,taz@example.com,111-000-9999,888 Magnolia St,Riverdale,TX,98765,USA,Retail,2023-01-11
+12,Sophia Lopez,sophial@example.com,222-333-4444,999 Pineapple Dr,Beachtown,FL,13579,USA,Individual,2023-01-12
+13,Good Time Society,gts@example.com,555-444-3333,123 Elmwood Ave,Meadowville,NY,86420,USA,Retail,2023-01-13
+14,Amelia Wilson,ameliaw@example.com,444-555-6666,456 Oakwood Rd,Highland,WA,97531,USA,Individual,2023-01-14
+15,Not Another DnD Shop,nadd@example.com,777-888-9999,789 Birch Ln,Mountainview,CA,12345,USA,Retail,2023-01-15

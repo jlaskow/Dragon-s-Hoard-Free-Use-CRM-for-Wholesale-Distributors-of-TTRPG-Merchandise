@@ -1,0 +1,51 @@
+﻿PipelineID,LeadID,StageName,ProbabilityToClose,ExpectedRevenue,StageDate
+1,1,Prospecting,0.2,1000,2024-05-15
+2,2,Qualification,0.4,2500,2024-05-16
+3,3,Needs Analysis,0.6,1800,2024-05-17
+4,4,Value Proposition,0.7,3000,2024-05-18
+5,5,Decision Making,0.5,2000,2024-05-19
+6,6,Proposal/Price Quote,0.75,3500,2024-05-20
+7,7,Negotiation/Review,0.8,4000,2024-05-21
+8,8,Closed Won,1,5000,2024-05-22
+9,9,Prospecting,0.25,1200,2024-05-23
+10,10,Qualification,0.55,2800,2024-05-24
+11,1,Needs Analysis,0.65,2100,2024-05-25
+12,2,Value Proposition,0.7,3200,2024-05-26
+13,3,Decision Making,0.6,2300,2024-05-27
+14,4,Proposal/Price Quote,0.8,3800,2024-05-28
+15,5,Negotiation/Review,0.85,4200,2024-05-29
+16,6,Closed Won,1,5500,2024-05-30
+17,7,Prospecting,0.3,1400,2024-05-31
+18,8,Qualification,0.6,2600,2024-06-01
+19,9,Needs Analysis,0.7,1900,2024-06-02
+20,10,Value Proposition,0.75,3300,2024-06-03
+21,1,Decision Making,0.55,2100,2024-06-04
+22,2,Proposal/Price Quote,0.85,3900,2024-06-05
+23,3,Negotiation/Review,0.9,4300,2024-06-06
+24,4,Closed Won,1,5800,2024-06-07
+25,5,Prospecting,0.35,1600,2024-06-08
+26,6,Qualification,0.65,2700,2024-06-09
+27,7,Needs Analysis,0.75,2000,2024-06-10
+28,8,Value Proposition,0.8,3500,2024-06-11
+29,9,Decision Making,0.65,2200,2024-06-12
+30,10,Proposal/Price Quote,0.9,4000,2024-06-13
+31,1,Negotiation/Review,0.95,4500,2024-06-14
+32,2,Closed Won,1,6000,2024-06-15
+33,3,Prospecting,0.4,1800,2024-06-16
+34,4,Qualification,0.7,2900,2024-06-17
+35,5,Needs Analysis,0.8,2200,2024-06-18
+36,6,Value Proposition,0.85,3600,2024-06-19
+37,7,Decision Making,0.7,2400,2024-06-20
+38,8,Proposal/Price Quote,0.95,4100,2024-06-21
+39,9,Negotiation/Review,0.98,4600,2024-06-22
+40,10,Closed Won,1,6200,2024-06-23
+41,1,Prospecting,0.45,2000,2024-06-24
+42,2,Qualification,0.75,3100,2024-06-25
+43,3,Needs Analysis,0.85,2400,2024-06-26
+44,4,Value Proposition,0.88,3700,2024-06-27
+45,5,Decision Making,0.75,2600,2024-06-28
+46,6,Proposal/Price Quote,0.96,4200,2024-06-29
+47,7,Negotiation/Review,0.99,4700,2024-06-30
+48,8,Closed Won,1,6400,2024-07-01
+49,9,Prospecting,0.5,2200,2024-07-02
+50,10,Qualification,0.8,3200,2024-07-03

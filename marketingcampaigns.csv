@@ -1,0 +1,6 @@
+﻿CampaignID,CampaignName,StartDate,EndDate,Budget,Channel,TargetAudience,CampaignType
+1,Summer Sale Campaign,2024-06-01,2024-06-30,5000,Online,General public,Sales promotion
+2,Back to School Campaign,2024-08-01,2024-09-15,8000,Online and Offline,Students and parents,Seasonal promotion
+3,Holiday Season Campaign,2024-11-01,2024-12-31,10000,Online and TV,Families,Seasonal promotion
+4,New Year Campaign,2025-01-01,2025-01-31,3000,Social Media,Young adults,Special event promotion
+5,Spring Collection Launch,2025-03-01,2025-03-31,6000,Online and Print,Fashion enthusiasts,Product launch
